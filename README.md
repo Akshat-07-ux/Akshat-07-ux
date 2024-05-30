@@ -7,13 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-07-ux&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-07-ux" /> </p>
 
+- 🔭 I’m currently working on **Chat Application**
+
 - 🌱 I’m currently learning **MEARN STACK**
 
 - 👨‍💻 All of my projects are available at [https://akshatsportfolio.netlify.app/](https://akshatsportfolio.netlify.app/)
 
 - 📫 How to reach me **akshatbhagat91@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15_woXCgUrV5t2On7oxguu_aPxbAS08WM/view?usp=sharing](https://drive.google.com/file/d/15_woXCgUrV5t2On7oxguu_aPxbAS08WM/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15_woXCgUrV5t2On7oxguu_aPxbAS08WM/view?usp=drive_link](https://drive.google.com/file/d/15_woXCgUrV5t2On7oxguu_aPxbAS08WM/view?usp=drive_link)
 
 - ⚡ Fun fact **Along with being excellent in academics, I am proefficient in co-curricular activites as well.**
 
