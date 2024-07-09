@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Chat Application**
 
-- 🌱 I’m currently learning **MEARN STACK**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://akshatsprojects.netlify.app/](https://akshatsprojects.netlify.app/)
 
