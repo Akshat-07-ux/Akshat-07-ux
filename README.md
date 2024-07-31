@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
--
+- 👨‍💻 All of my projects are available at [https://akshatsprojects.netlify.app/](https://akshatsprojects.netlify.app/)
 
 - 📫 How to reach me **akshatbhagat91@gmail.com**
 
