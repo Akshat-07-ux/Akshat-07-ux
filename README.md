@@ -1,19 +1,19 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Akshat Bhagat</h1>
-<h3 align="center">A passionate Data Scientist and Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Data Scientist and Software Developer from India</h3>
 <img align="right" alt="Coding" width=300 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD14mpCDIeN87UZ0-Nh0GFRgax1Ij5U8Wj62a5lIHe8w&s" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-07-ux&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-07-ux" /> </p>
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on **Grocery Delivery Application**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Android and Software development**
 
 - 👨‍💻 All of my projects are available at [https://akshatsprojects.netlify.app/](https://akshatsprojects.netlify.app/)
 
-- 📫 How to reach me **akshatbhagat91@gmail.com**
+- 📫 How to reach me **akshatbhagat17@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/15_woXCgUrV5t2On7oxguu_aPxbAS08WM/view?usp=drive_link](https://drive.google.com/file/d/15_woXCgUrV5t2On7oxguu_aPxbAS08WM/view?usp=drive_link)
 
